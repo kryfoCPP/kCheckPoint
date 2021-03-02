@@ -22,7 +22,6 @@
   <ItemGroup>
     <ClInclude Include="kCheckPoint.h" />
     <ClInclude Include="rampAttrNode.h" />
-    <ClInclude Include="test.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <Keyword>Win32Proj</Keyword>
